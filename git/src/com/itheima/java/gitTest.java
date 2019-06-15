@@ -6,4 +6,7 @@ public class gitTest {
         System.out.println("git");
         System.out.println("！");
     }
+    public void method(){
+        System.out.println("kiki");
+    }
 }
