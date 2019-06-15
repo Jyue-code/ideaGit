@@ -8,6 +8,6 @@ public class gitTest {
     }
     public void method(){
         System.out.println("kiki");
-        //method
+        //method1
     }
 }
